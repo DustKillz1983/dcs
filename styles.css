@@ -1,13 +1,15 @@
 body {
+    color: yellow;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #040404;
 }
 article {
+    color:  yellow;
     margin: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #000000;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -19,12 +21,12 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 h1 {
-    color: #333;
+    color: #f4e508;
     font-size: 2em;
     text-align: center;
 }
 h2 {
-    color: #333;
+    color: #f1ee08;
     font-size: 1.5em;
 }
 p {
