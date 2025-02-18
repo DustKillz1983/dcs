@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #040404;
+    background-color: black;
 }
 article {
     color:  yellow;
     margin: 20px;
     padding: 20px;
-    background-color: #000000;
+    background-color: black;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
