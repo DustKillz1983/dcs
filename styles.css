@@ -48,3 +48,24 @@ nav ul li a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0 10px;
 }
+.dropdown-navbar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .dropdown-navbar li {
+    position: relative;
+  }
+  
+  .dropdown-navbar .dropdown {
+    display: none; /* Hides dropdown */
+    position: absolute;
+    background: #444;
+    padding: 10px;
+    list-style: none;
+  }
+  
+  .dropdown-navbar li:hover .dropdown {
+    display: block; /* Shows dropdown on hover */
+  }
+  
